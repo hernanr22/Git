@@ -1,0 +1,7 @@
+.desborde{
+width: 300px;
+height: 100px;
+border: 2px solid crimson;
+overflow-y: auto;
+overflow-y: scroll;
+}
